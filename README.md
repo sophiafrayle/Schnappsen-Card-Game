@@ -251,3 +251,6 @@ Bots from last year can be used this year as well.
 Vectorized Playing Card Graphics 2.0 - http://sourceforge.net/projects/vector-cards/  
 Copyright 2015 - Chris Aguilar - conjurenation@gmail.com  
 Licensed under LGPL 3 - www.gnu.org/copyleft/lesser.html
+
+
+![Signature](https://github.com/sophiafrayle/EDA-Covid/blob/main/images/Sophia%20Frayle.png)
